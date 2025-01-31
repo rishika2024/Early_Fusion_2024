@@ -1,2 +1,4 @@
-![image](https://github.com/user-attachments/assets/84107ed2-3914-413b-98f8-ea21d1a191c5)
+![image](https://github.com/user-attachments/assets/92424d62-c517-4d11-ba36-137688441daa)
+
+
 Early Fusion with YOLOv5
